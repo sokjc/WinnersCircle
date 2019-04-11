@@ -14,12 +14,12 @@ Welcome Victors! The Technology Guild Program will reinforce your winning habits
 12:45 - 1:45 | Introduction to Reinforcement Learning with Paperspace GPUs
 1:45 - 2:45 | Deep-Q Learning (DQN) with Atari SpaceInvaders
 2:45 - 3:45 | Genetic Algorithms in the Gym
-3:45 - 4:00 | :Coffee: Break
+3:45 - 4:00 | :coffee: Break
 4:00 - 6:00  | AWS DeepRacer Demo
 6:00 - 6:30 | Break / Travel Time
 6:30 - 8:30 | Dinner @ Steakhouse
 
-*4/12* | Friday
+*4/12* | Fridayde3 43211v   
 -- | --
 8:30 - 9:00 | Breakfast
 9:00 - 10:30 | Step-up Super Mario Brothers RL Algorithm
