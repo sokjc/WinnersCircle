@@ -1,12 +1,14 @@
 <img src="assets/WinnersCircle-small-icononly.png" alt="drawing" width="200"/>
+
 # Winners Circle
+
 ## Reinforcement Learning (RL) Workshop
 
 Welcome Victors! The Technology Guild Program will reinforce your winning habits and competitive spirt with day of fun and a focus on cutting edge artificial intelligence techniques. We will introduce reinforcement learning (RL), teach algorithms to beat classic video games, and play with self-driving cars. This workshop is your time to tinker.
 
 ### Agenda
 
- *4/11* |
+ *4/11* | Thursday
  -- | --
 12:00 - 12:45 | Welcome Address & Lunch
 12:45 - 1:45 | Introduction to Reinforcement Learning with Paperspace GPUs
@@ -17,7 +19,7 @@ Welcome Victors! The Technology Guild Program will reinforce your winning habits
 6:00 - 6:30 | Break / Travel Time
 6:30 - 8:30 | Dinner @ Steakhouse
 
-*4/12* |
+*4/12* | Friday
 -- | --
 8:30 - 9:00 | Breakfast
 9:00 - 10:30 | Step-up Super Mario Brothers RL Algorithm
