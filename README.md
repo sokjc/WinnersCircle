@@ -3,8 +3,6 @@
 # Winners Circle
 *Reinforcement Learning (RL) Workshop*
 </p>
-<br>
-<br>
 
 Welcome Victors! The Technology Guild Program will reinforce your winning habits and competitive spirt with day of fun and a focus on cutting edge artificial intelligence techniques. We will introduce reinforcement learning (RL), teach algorithms to beat classic video games, and play with self-driving cars. This workshop is your time to tinker.
 
