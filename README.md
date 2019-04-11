@@ -1,4 +1,4 @@
-<img src="assets/WinnersCircle-small-icononly.png" alt="drawing" width="200"/>
+<img align="left" src="assets/WinnersCircle-small-icononly.png" alt="drawing" width="200"/>
 
 # Winners Circle
 
